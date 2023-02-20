@@ -1,4 +1,4 @@
-![JURIDICAAÉREA ](https://github.com/crisgo-data/Visualization-project/blob/main/imagenes/grafico%20aviones.jpg)
+![JURIDICAAÉREA ](https://github.com/crisgo-data/Visualization-project/blob/main/imagenes/grafico%20recorte.JPG)
 
 
 
