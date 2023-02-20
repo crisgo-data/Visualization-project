@@ -7,13 +7,18 @@
 
 INDICE
 
-1-[OBJETIVO DEL PROYECTO]
+1-[OBJETIVO DEL PROYECTO](#objetivo-del-proyecto)
 
-2-[HERRAMIENTAS]
+2-[HERRAMIENTAS](#herramientas)
 
-3-[Descripción del proyecto, [¿QUÉ QUEREMOS SABER?]] 
+3-[DESCRIPCIÓN DEL PROYECTO](#descripción-del-proyecto)
 
-4-[Análisis y coclusión]
+4-[ANÁLISIS Y CONCLUSIÓN](#análisis-y-conclusión)
+
+
+
+
+
 
 
 
@@ -24,9 +29,16 @@ Mi objetivo para este proyecto es generar gráficos para dar respuesta a pregunt
 
 
 
+
+
+
 2- HERRAMIENTAS:
 
 En mi caso voy a utilizar PowerBI para generar los gráficos y hacer un Dashboard que explique claramente en que lugar se encuentra la empresa.
+
+
+
+
 
 
 3- DESCRIPCIÓN DEL PROYECTO:
@@ -40,6 +52,9 @@ Se trata de una empresa de Demandas a aerolineas por retrasos en sus vuelos. Sie
 - cual es el porcentaje de demandas que se cobran.
 - Tienen algo que ver las condiciones metereológicas en los retrasos de los vuelos, en qué porcentaje?
 - De que Nacionalidad es de la que más hay reclamaciones.
+
+
+
 
 
 
