@@ -23,7 +23,7 @@ INDICE
 
 
 
-1- OBJETIVO DEL PROYECTO:
+<h1 align="center"> OBJETIVO DEL PROYECTO  </h1>
 
 Mi objetivo para este proyecto es generar gráficos para dar respuesta a preguntas que tiene la empresa sin contestar.
 
@@ -32,7 +32,8 @@ Mi objetivo para este proyecto es generar gráficos para dar respuesta a pregunt
 
 
 
-2- HERRAMIENTAS:
+<h1 align="center"> HERRAMIENTAS  </h1>
+
 
 En mi caso voy a utilizar PowerBI para generar los gráficos y hacer un Dashboard que explique claramente en que lugar se encuentra la empresa.
 
@@ -41,7 +42,9 @@ En mi caso voy a utilizar PowerBI para generar los gráficos y hacer un Dashboar
 
 
 
-3- DESCRIPCIÓN DEL PROYECTO:
+<h1 align="center"> DESCRIPCIÓN DEL PROYECTO  </h1>
+
+
 
 Se trata de una empresa de Demandas a aerolineas por retrasos en sus vuelos. Siempre con origen o destino, Madrid y Barcelona.
 
@@ -59,7 +62,7 @@ Se trata de una empresa de Demandas a aerolineas por retrasos en sus vuelos. Sie
 
 
 
-4- ANÁLISIS Y CONCLUSIÓN
+<h1 align="center"> ANÁLISIS Y CONCLUSIÓN </h1>
 
 
 ![JURIDICAAÉREA ](https://github.com/crisgo-data/Visualization-project/blob/main/imagenes/dashbord.JPG)
